@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🏢 I'm a Software Engineer
 - 🔭 I’m currently working on arduino projects 
-- 👨‍💻 As a engineering Cs Graduate, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Engineering Cs Graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Arduino ,Robotics ,JavaScript, ReactJS, and NodeJS, or anything related to web development.
 
 ### Connect with Me :
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://t.me/zainabmo700@" target="_blank"><img src="https://img.shields.io/badge/-Zainab%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)&nbsp;
-
+![TinkerCad](https://img.shields.io/badge/-TinkerCad-05122A?style=flat&logo=TinkerCad)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
