@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 </p> 
 
 - 🏢 I'm a Software Engineer
-- 🔭 I’m currently working on arduino projects 
+- 🔭 I’m currently working on front-end projects 
 - 👨‍💻 As a Engineering Cs Graduate, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Arduino ,Robotics ,JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience with Arduino ,Robotics ,JavaScript, ReactJS, angular18, NodeJS, or anything related to web development.
 
 ### Connect with Me :
 
